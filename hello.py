@@ -4,6 +4,7 @@ nombre = input("Ingresa tu nombre: ")
 def saludar(nombre):
     print(f"¡Hola, bienvenido {nombre}")
 
+<<<<<<< HEAD
 saludar(nombre)
 
 num1 = int(input("Ingrese el primer numero: "))
@@ -14,3 +15,6 @@ def suma(num1, num2):
     print("La suma es:",suma)
 
 suma(num1,num2)
+=======
+saludar(nombre)    
+>>>>>>> parent of 5fc5bed (Función de suma)
