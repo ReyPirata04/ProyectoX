@@ -13,4 +13,9 @@ def suma(num1, num2):
     suma=num1+num2
     print("La suma es:",suma)
 
+def resta(num1, num2):
+    resta=num1-num2
+    print("La resta es:",resta)
+
 suma(num1,num2)
+resta(num1, num2)
